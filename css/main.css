@@ -11,10 +11,14 @@ html {
   font-size: 4rem;
 }
 
-.content {
+.sentence {
   font-size: 2rem;
 }
 
 .banner {
   max-height: 500px;
+}
+
+.content {
+  max-width: 50em;
 }
