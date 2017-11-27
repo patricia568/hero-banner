@@ -32,7 +32,7 @@ h2 {
   left: 10em;
 }
 
-div img.img-flex {
+.img-flex {
   display: block;
   width: 100%;
 }
