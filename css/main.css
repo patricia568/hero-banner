@@ -22,15 +22,18 @@ p {
 
 .banner {
   max-height: 500px;
-  position: relative;
   overflow: hidden;
 }
 
-.content {
+.container {
   max-width: 50em;
+  position: relative;
+}
+
+.content {
   position: absolute;
+  left: 0;
   bottom: 0;
-  left: 1em;
 }
 
 .img-flex {
