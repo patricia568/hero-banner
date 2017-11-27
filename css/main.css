@@ -17,8 +17,17 @@ html {
 
 .banner {
   max-height: 500px;
+  position: relative;
 }
 
 .content {
   max-width: 50em;
+  position: absolute;
+  bottom: 0;
+  left:0;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
 }
