@@ -14,3 +14,7 @@ html {
 .content {
   font-size: 2rem;
 }
+
+.banner {
+  max-height: 500px;
+}
