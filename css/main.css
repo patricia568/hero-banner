@@ -6,3 +6,11 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.title {
+  font-size: 4rem;
+}
+
+.content {
+  font-size: 2rem;
+}
