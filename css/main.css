@@ -12,17 +12,11 @@ html {
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
   font-weight: bold;
-  position: absolute;
-  left: 2em;
-  bottom: 2em;
 }
 
-.sentence {
+h2 {
   font-size: 2rem;
   font-style: italic;
-  position: absolute;
-  left: 4em;
-  bottom: 0;
 }
 
 .banner {
@@ -33,9 +27,12 @@ html {
 
 .content {
   max-width: 50em;
+  position: absolute;
+  bottom: 0;
+  left: 10em;
 }
 
-.img-flex {
+div img.img-flex {
   display: block;
   width: 100%;
 }
